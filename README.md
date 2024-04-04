@@ -5,6 +5,7 @@ A sveltekit starter
 ## Contents
 
 - [Features](#features)
+- [Usage](#usage)
 - [License](#license)
 
 ## Features
@@ -12,6 +13,12 @@ A sveltekit starter
 - No linter, just `prettier`
 - Hot reloading with `vite`
 - Tests with `vitest`
+
+## Usage
+
+```sh
+npx degit hankaguila/ts-starter-sveltekit
+```
 
 ## License
 
